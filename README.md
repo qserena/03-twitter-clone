@@ -1,7 +1,7 @@
 # Twimba - Twitter clone
 
 ## Description
-A Twitter-like app which reads in data as an array of objects to be displayed, as well as adding a new tweet/message. 
+A Twitter-like app which reads data as an array of objects to be displayed, as well as adding a new tweet/message. 
 
 <br/>
 <img src="twimba.png" alt="Screenshot." width="400px"/>
