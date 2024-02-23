@@ -6,7 +6,7 @@ An Instagram featuring historic characters like Vincent van Gogh, Gustave Courbe
 This web application offer practice in semantic HTML, hovering effects and interactive feedback.
 
 <br/>
-<img src="twimba.png" alt="Screenshot." width="240px"/>
+<img src="twimba.png" alt="Screenshot." width="300px"/>
 
 ## Technologies
 - HTML
