@@ -1,9 +1,7 @@
 # Twimba - Twitter clone
 
 ## Description
-An Instagram featuring historic characters like Vincent van Gogh, Gustave Courbet and Joseph Ducreux.
-
-This web application offer practice in semantic HTML, hovering effects and other interactive feedback.
+A Twitter-like app which reads an array of objects to be displayed, as well as adding a new tweet/message. 
 
 <br/>
 <img src="twimba.png" alt="Screenshot." width="400px"/>
