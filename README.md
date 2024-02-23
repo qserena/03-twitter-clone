@@ -1,21 +1,20 @@
-# co6ab451590c6017da808589f
+# Twimba - Twitter clone
 
-Quick start:
+## Description
+An Instagram featuring historic characters like Vincent van Gogh, Gustave Courbet and Joseph Ducreux.
 
-```
-$ npm install
-$ npm start
-````
+This web application offer practice in semantic HTML, hovering effects and interactive feedback.
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+<br/>
+<img src="oldagram.png" alt="Screenshot." width="240px"/>
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Technologies
+- HTML
+- CSS
+- JavaScript
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Live link
+The app is deployed here:
+[https://toms-oldagram.netlify.app](https://toms-oldagram.netlify.app)
 
-Happy Coding!
+Please feel free to visit and click around!
