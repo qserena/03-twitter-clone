@@ -3,7 +3,7 @@
 ## Description
 An Instagram featuring historic characters like Vincent van Gogh, Gustave Courbet and Joseph Ducreux.
 
-This web application offer practice in semantic HTML, hovering effects and interactive feedback.
+This web application offer practice in semantic HTML, hovering effects and other interactive feedback.
 
 <br/>
 <img src="twimba.png" alt="Screenshot." width="400px"/>
